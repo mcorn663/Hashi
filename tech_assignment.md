@@ -1,4 +1,4 @@
-<h1>What is the difference between push, pull, and fetch?</h1>
+<h3>What is the difference between push, pull, and fetch?</h3>
 <ul>
 <li><code>git push</code> - sent changes from a local branch to a remote repo</li>
 <li><code>git fetch</code> - get changes from a remote repo into your tracking branch</li>
